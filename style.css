@@ -489,7 +489,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/base.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/base3.webp);
   height: 630px;
   width: 750px;
   /*    margin-left: -375px;
@@ -518,7 +518,7 @@ strong {
 .xbox .trigger {
   width: 88px;
   height: 121px;
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/trigger.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/trigger.webp);
   opacity: 0;
 }
 
@@ -535,7 +535,7 @@ strong {
 .xbox .bumper {
   width: 170px;
   height: 61px;
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/bumper.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/bumper.webp);
   opacity: 0;
 }
 
@@ -563,7 +563,7 @@ strong {
 
 .xbox .quadrant {
   position: absolute;
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/quadrant.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/quadrant.webp);
   height: 45px;
   width: 45px;
   top: 258px;
@@ -601,7 +601,7 @@ strong {
 
 .xbox .back,
 .xbox .start {
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/start-select.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/start-select.webp);
   width: 33px;
   height: 33px;
   opacity: 0;
@@ -631,7 +631,7 @@ strong {
 
 .xbox .button {
   position: absolute;
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/abxy.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/abxy.webp);
   width: 48px;
   height: 48px;
 }
@@ -676,7 +676,7 @@ strong {
 
 .xbox .stick {
   position: absolute;
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/stick.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/stick.webp);
   background-position: -85px 0;
   height: 83px;
   width: 83px;
@@ -705,7 +705,7 @@ strong {
 }
 
 .xbox .face {
-  background: url(https://r2.fivemanage.com/SCjvBqqMKZd0pzpbID7c6/dpad.webp);
+  background: url(https://r2.fivemanage.com/qc1l4Xb3xZLcz1xROwWl6/dpad.webp);
   position: absolute;
   opacity: 0;
 }
